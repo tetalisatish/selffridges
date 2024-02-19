@@ -273,6 +273,7 @@ public class brows {
 		System.out.println("Total J lows - "+J_lows);
 		System.out.println("Total J highs - "+J_highs);
 		System.out.println("Total J snaps - "+J_snaps);
+		System.out.println("satishreddy");
 		driver.quit();
 	}
 }
